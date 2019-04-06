@@ -71,6 +71,42 @@
           "name": "Mary Gordon"
         }
       ]
+    },
+    {
+      "id": 4325846,
+      "user": {
+        "id": "abcs12",
+        "name": "Aymen"
+      },
+      "category": "zer",
+      "organizer": {
+        "id": "abcs12",
+        "name": "Aymen"
+      },
+      "title": "wororororo",
+      "description": "zefzefzef",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 2023548,
+      "user": {
+        "id": "abcs12",
+        "name": "Aymen"
+      },
+      "category": "ezrzer",
+      "organizer": {
+        "id": "abcs12",
+        "name": "Aymen"
+      },
+      "title": "azrazrazrazrazrazr",
+      "description": "azrazrazr",
+      "location": "azrazrazr",
+      "date": "2019-04-04T11:38:00.000Z",
+      "time": "6:00",
+      "attendees": []
     }
   ]
 }
