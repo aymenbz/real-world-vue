@@ -6,7 +6,7 @@
       <li v-for="cat in categories" :key="cat.id">{{cat.name}}</li>
     </ul>-->
     <p>There Are {{catLength}} Categories</p>
-    <h1>{{count}}</h1>
+    <p>{{getEvent(1)}}</p>
   </div>
 </template>
 
@@ -18,8 +18,8 @@ export default {
     catLength() {
       return this.$store.getters.catLength;
     },
-    count() {
-      return this.$store.getters.activeTodoCount;
+    getEvent() {
+      return this.$store.getters.getEventById;
     },
     ...mapState(["user", "categories"])
   }
